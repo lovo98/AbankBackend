@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|c:\\users\\usuario1\\onedrive\\documentos\\cursos\\.net\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|c:\\users\\usuario1\\onedrive\\documentos\\cursos\\.net\\backend\\backend\\servicios\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|solutionrelative:backend\\servicios\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|c:\\users\\usuario1\\onedrive\\documentos\\cursos\\.net\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|c:\\users\\usuario1\\onedrive\\documentos\\cursos\\.net\\backend\\backend\\servicios\\usersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FA3F6A-86F4-4B6D-8894-6C11DA9A5614}|Backend\\Backend.csproj|solutionrelative:backend\\servicios\\usersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T16:03:57.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\Servicios\\JwtServices.cs",
+              "RelativeDocumentMoniker": "Backend\\Servicios\\JwtServices.cs",
+              "ToolTip": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\Servicios\\JwtServices.cs",
+              "RelativeToolTip": "Backend\\Servicios\\JwtServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:01:25.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:55:39.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\Servicios\\UsersServices.cs",
+              "RelativeDocumentMoniker": "Backend\\Servicios\\UsersServices.cs",
+              "ToolTip": "C:\\Users\\Usuario1\\OneDrive\\Documentos\\Cursos\\.Net\\Backend\\Backend\\Servicios\\UsersServices.cs",
+              "RelativeToolTip": "Backend\\Servicios\\UsersServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:51:35.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
